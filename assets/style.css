@@ -92,5 +92,10 @@ body {
     width: 50%;
     height: auto;
     background-color: rgba(128, 128, 128, 0.733);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-size: 18px;
 }
 
