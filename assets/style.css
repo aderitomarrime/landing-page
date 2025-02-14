@@ -192,3 +192,12 @@ body {
     font-weight: 700;
     padding: 6px 24px;
 }
+
+.fifth {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
