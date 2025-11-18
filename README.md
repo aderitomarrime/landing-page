@@ -1,6 +1,6 @@
 # <p align="center">Landing Page</p>
 
-## <p align="center">A simple landing page with HTML and CSS</p>
+<p align="center"> <em>A simple landing page with HTML and CSS</em></p>
 
 ![Landing page's hero section](https://imgur.com/8QJqXbc.png)
 
