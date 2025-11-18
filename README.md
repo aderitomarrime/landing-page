@@ -5,7 +5,13 @@
 ![Landing page's hero section](https://imgur.com/8QJqXbc.png)
 
 ## Overview
+
 This project is a landing page made up of six main sections. It includes a navigation bar, a hero, more information, a quote, a call-to-action and a footer.
+
+## Live Demo
+
+Visit the website: [Live Demo](https://aderitomarrime.github.io/landing-page/)
+
 
 ## Features
 
